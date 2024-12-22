@@ -37,3 +37,13 @@ print(t.capitalize())
 print(t.title())
 
 print(t.find("b"))
+
+y = "abc123"
+print(y.isalpha())
+print(y.isalnum())
+print(y.isnumeric())
+
+y = "123"
+print(y.isalpha())
+print(y.isalnum())
+print(y.isnumeric())

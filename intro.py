@@ -1,3 +1,11 @@
+name = input("Enter a person name :")
+print(f"Hello {name}")
+
+num = int(input("Enter a number :"))
+ans = num + 2
+print(f"Adiition of 2 is {ans}")
+
+
 name = "Ankur"
 batch = "2"
 roll_no = 17
@@ -14,6 +22,8 @@ print("name of the student is {} who is in batch {} with roll number {}".format(
 # Placeholder for different cases
 # Different Cases
 
+
+
 a,b = 10,20
 print(a)
 print(b)
@@ -22,6 +32,8 @@ print(a*b)
 a,b = 10,20
 x, y, z, a, b = 'name',17,'batch', True, 89.97
 print(x,y,z,a,b)
+
+
 
 name = '''Hello world
 sanket
