@@ -17,13 +17,23 @@ print(len(name))
 t= 'colour of the ocean is blue'
 
 print(t.upper())
+
 print(t.lower())
+
 print(t[::-1])
+
 print(t.replace("f","b"))
+
 print(t.split())
+
 print(t.isupper())
+
 print(t.islower())
+
 print(t.upper())
+
 print(t.capitalize())
+
 print(t.title())
+
 print(t.find("b"))
