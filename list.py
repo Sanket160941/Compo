@@ -73,6 +73,11 @@ print(l2)
 
 print(len(l2))
 
+l3 = [12,33,45,56,67,79,82,95]
+print(l3[-1])
+print(l3[-7])
+print(l3[-5:-2])
+print(l3[-3:-6])
 
 l4 = ["apple","watermelon","banana","strawberry"]
 del l4
